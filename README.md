@@ -21,7 +21,7 @@ The system demonstrates secure backend architecture with session management, CSR
 **Backend Focus:** Authentication, REST-style API endpoints, secure file handling, relational database design  
 **Frontend Focus:** Responsive UI, dynamic search, image preview, user interaction  
 
-[View Repository](#)
+[View Repository](https://github.com/MohamedAasifRahman/ChitChat)
 
 ## 🚀 Tech Stack
 
