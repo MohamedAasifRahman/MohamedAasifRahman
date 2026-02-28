@@ -1,9 +1,12 @@
 # Mohamed Aasif Rahman 👨‍💻
+ 
+💻 Full-Stack Developer  
+🚀 Focused on building scalable web applications  
+🧠 Strong interest in backend systems, APIs, and clean architecture  
 
 🎓 BSc Information Technology  
-💻 Full-Stack & Software Developer  
-🔐 AI • Cybersecurity • IoT  
 
+I design and build complete applications from database modeling to user interfaces with a strong focus on clean code, performance, and continuous improvement in software engineering fundamentals.
 ---
 
 ## 🚀 Tech Stack
@@ -55,3 +58,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAasifRahman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aasif-rahman-881231248/)
+
