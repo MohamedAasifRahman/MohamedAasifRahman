@@ -51,6 +51,7 @@
 
 ---
 
-## 📫 Connect
-🔗 LinkedIn: https://www.linkedin.com/in/mohamed-aasif-rahman-881231248/  
-📧 Email: Available upon request
+## 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAasifRahman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aasif-rahman-881231248/)
