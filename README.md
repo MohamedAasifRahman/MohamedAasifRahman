@@ -9,6 +9,20 @@
 I design and build complete applications from database modeling to user interfaces with a strong focus on clean code, performance, and continuous improvement in software engineering fundamentals.
 ---
 
+## 🚀 Highlighted Projects
+
+### 🔹 ChitChat – Full-Stack Social Web Application
+
+A lightweight social networking platform built from scratch using PHP and MySQL, featuring authentication, post sharing, private messaging, and dynamic search functionality.
+
+The system demonstrates secure backend architecture with session management, CSRF protection, password hashing, prepared statements, and structured file uploads. It also integrates JavaScript (Fetch API) for real-time search and interactive UI updates.
+
+**Tech:** PHP • MySQL • JavaScript • HTML • CSS  
+**Backend Focus:** Authentication, REST-style API endpoints, secure file handling, relational database design  
+**Frontend Focus:** Responsive UI, dynamic search, image preview, user interaction  
+
+[View Repository](#)
+
 ## 🚀 Tech Stack
 
 ### 👨‍💻 Languages
